@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("POSTGREP_API_TESTING")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf7fd088ca570b1225a41665c860f6f108913221")]
 [assembly: System.Reflection.AssemblyProductAttribute("POSTGREP_API_TESTING")]
 [assembly: System.Reflection.AssemblyTitleAttribute("POSTGREP_API_TESTING")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

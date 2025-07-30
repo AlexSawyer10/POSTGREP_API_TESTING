@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "9hQ8FdHAZc8=",
+  "dgSpecHash": "Bf+0W081qbg=",
   "success": true,
   "projectFilePath": "/Users/alexsawyer/Documents/POSTGREP_API_TESTING/POSTGREP_API_TESTING.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/alexsawyer/.nuget/packages/microsoft.aspnetcore.openapi/10.0.0-preview.6.25358.103/microsoft.aspnetcore.openapi.10.0.0-preview.6.25358.103.nupkg.sha512",
+    "/Users/alexsawyer/.nuget/packages/microsoft.openapi/1.6.23/microsoft.openapi.1.6.23.nupkg.sha512",
+    "/Users/alexsawyer/.nuget/packages/swashbuckle.aspnetcore.swagger/9.0.3/swashbuckle.aspnetcore.swagger.9.0.3.nupkg.sha512",
+    "/Users/alexsawyer/.nuget/packages/swashbuckle.aspnetcore.swaggergen/9.0.3/swashbuckle.aspnetcore.swaggergen.9.0.3.nupkg.sha512",
+    "/Users/alexsawyer/.nuget/packages/swashbuckle.aspnetcore.swaggerui/9.0.3/swashbuckle.aspnetcore.swaggerui.9.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
